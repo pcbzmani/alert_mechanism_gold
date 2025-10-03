@@ -63,6 +63,8 @@ Edit `.env` and add your API keys:
 ```
 EXA_API_KEY=your_actual_exa_api_key
 CERBRAS_API_KEY=your_actual_cerbras_api_key
+METALPRICEAPI_KEY = "your metalpriceAPIKey"
+EXCHANGERATE_API_KEY = "your ExchageRateAPIKey"
 ```
 
 #### Getting API Keys
