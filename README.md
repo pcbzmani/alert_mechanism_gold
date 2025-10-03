@@ -262,9 +262,6 @@ def rate_limit(calls_per_minute):
 
 Feel free to submit issues and enhancement requests!
 
-## License
-
-MIT License - feel free to use for personal or commercial projects.
 
 ## Support
 
